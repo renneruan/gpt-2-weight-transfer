@@ -1,4 +1,4 @@
-# Transferência de pesos de modelo para criação de GPT-2
+# Transferência de pesos de modelo GPT-2
 Implementação de LLM baseado no livro Build a Large Language Model (From Scratch). 
 
 Este projeto tem como intuito aplicar os conhecimentos obtidos na seção 5.5 do livro Build a Large Language Model (From Scratch). A seção contém instruções de como podemos carregar pesos já existentes de um modelo treinado para um criado do 0.
